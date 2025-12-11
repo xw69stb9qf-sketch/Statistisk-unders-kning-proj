@@ -1,8 +1,7 @@
 # Statistisk-unders-kning-proj
 
-# 8 Bilaga
-## 8.1 Bilaga A
-# I bilaga A presenteras kod som har med inläsning, filtrering, imputtering och aggregering av data.
+
+# code
 
 utspelare <- read.csv2("/Users/jryzr/Desktop/utespelare.csv")
 malvakt <- read.csv2("/Users/jryzr/Desktop/målvakter.csv")
